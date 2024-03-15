@@ -1,3 +1,6 @@
+# MOVED TO https://github.com/BAMresearch/dockerbuilder-pmd
+
+
 # dockerbuilder
 Repo for building docker images in Github actions
 
